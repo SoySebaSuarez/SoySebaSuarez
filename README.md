@@ -1,6 +1,7 @@
 <div align="center" width="50">
 
-# Holaaa, Soy Sebastián Suárez! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Encantado de verte.</h1>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
@@ -14,7 +15,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-sebasuarezf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:sebasuarezf@gmail.com)<br>
 </div>
 
+<p>¡Bienvenido a mi perfil! <br> Mi nombre es Sebastián, soy de <img src="https://cdn-icons-png.flaticon.com/128/16022/16022037.png" height="12"> Colombia y me desempeño como Desarrollador Junior, enfocado principalmente en el desarrollo <b>fronted</b>. Mi objetivo en cada proyecto es crear interface limpias, atractivas, funcionales y centradas en el usuario. 😎</p>
+
 <hr></hr>
+
+<h3>Cosas con las que codifico</h3>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
