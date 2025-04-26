@@ -61,10 +61,10 @@ class About extends Me {
 <!-- CARDS -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=5&hide=++,typescript,glsl&size_weight=0.05&count_weight=0.01&text_color=fff&bg_color=0D1117&title_color=3198FF" />
+  <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=5&hide=++,typescript,glsl&size_weight=0.05&count_weight=0.01&text_color=fff&bg_color=0D1117&title_color=3198FF" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SoySebaSuarez&show_icons=true&text_color=fff&bg_color=0D1117&title_color=3198FF&rank_icon=github&ring_color=ff0000&k#gh-dark-mode-only" />
+  <img width=405 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SoySebaSuarez&show_icons=true&text_color=fff&bg_color=0D1117&title_color=3198FF&rank_icon=github&ring_color=ff0000&k#gh-dark-mode-only" />
 </a>
 
 
