@@ -39,8 +39,6 @@
 <div align="center" >
 <a  href="https://github.com/SP-XD">
 
-<img  src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/Cards_GitHub/First_card/first-card.png" width="32.5%"/>
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 
 </a>
 
