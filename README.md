@@ -76,9 +76,12 @@ class About extends Me {
 
 <div align="left">
   <h3>Conectate conmigo</h3>
-<a href="https://instagram.com/sebastiansuaarezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://instagram.com/sebastiansuaarezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="30" /></a>
 <a href="mailto:sebasuarezf@gmail.com">
-<img src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/images-2/gmail-svgrepo-com.svg" height="30" align="center">
+<img src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/images-2/gmail-svgrepo-com.svg" height="33" align="center">
+</a>
+<a href="mailto:sebasuarezf@gmail.com">
+<img src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/images-2/whatsapp-svgrepo-com%20(3).svg" height="34" align="center">
 </a>
 </div>
 
