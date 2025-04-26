@@ -5,19 +5,29 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<p><strong> <summary>  Ocupado codificando y vibrando con:   </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+<a href="https://open.spotify.com/search/wicked%20game">
+  <img src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/images-2/play-button-svgrepo-com%20(1).svg" height="25" align="center" >
+  <img src= "https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/images-2/Captura%20de%20pantalla%202025-04-25%20235455.png" align="center">
+</a>
 
 </details>
 
-[![Instagram Badge](https://img.shields.io/badge/-sebastiansuaarezz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sebastiansuaarezz/)](https://www.instagram.com/sebastiansuaarezz/)
-[![Gmail Badge](https://img.shields.io/badge/-sebasuarezf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:sebasuarezf@gmail.com)<br>
+<br>
 </div>
 
 <p>¡Bienvenido a mi perfil! <br> Mi nombre es Sebastián, soy de <img src="https://cdn-icons-png.flaticon.com/128/16022/16022037.png" height="12"> Colombia y me desempeño como Desarrollador Junior, enfocado principalmente en el desarrollo <b>fronted</b>. Mi objetivo en cada proyecto es crear interface limpias, atractivas, funcionales y centradas en el usuario. 😎</p>
 
 <hr></hr>
+
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Soy estudiante de Desarollo de Software, Me enfoco principalmente en el desarrollo fronted.<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif" alt="Penguin" width="15%" />
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Actualmente estoy aprendiendo **Javascript & React**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Hablame de tu proyecto! Me gusta enfrentarme a nuevo retos y seguir adquiriendo experiencia. <br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Dato sobre mí: Soy muy curioso, me encanta aprender y entender como funcionan las cosas.
+
+
 
 <h3>Cosas con las que codifico</h3>
 
@@ -48,13 +58,6 @@ class About extends Me {
 
 
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Soy estudiante de Desarollo de Software, Me enfoco principalmente en el desarrollo fronted.<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif" alt="Penguin" width="15%" /><br>
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Actualmente estoy aprendiendo **Javascript & React**.<br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Hablame de tu proyecto! Me gusta enfrentarme a nuevo retos y seguir adquiriendo experiencia. <br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Dato sobre mí: Soy muy curioso, me encanta aprender y entender como funcionan las cosas.<br>
-
-
 <div align="center" >
 <a  href="https://github.com/SP-XD">
 
@@ -69,6 +72,15 @@ class About extends Me {
 
 </details>
 
+
+
+<div align="left">
+  <h3>Conectate conmigo</h3>
+<a href="https://instagram.com/sebastiansuaarezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="mailto:sebasuarezf@gmail.com">
+<img src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/images-2/gmail-svgrepo-com.svg" height="30" align="center">
+</a>
+</div>
 
 <hr></hr>
 
