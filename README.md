@@ -54,18 +54,20 @@ class About extends Me {
 }
 ```
 
-
-
-
 <div align="center" >
 <a  href="https://github.com/SP-XD">
-
-
 </a>
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<!-- CARDS -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=5&hide=++,typescript,glsl&size_weight=0.05&count_weight=0.01&text_color=fff&bg_color=0D1117&title_color=3198FF" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SoySebaSuarez&show_icons=true&text_color=fff&bg_color=0D1117&title_color=3198FF&rank_icon=github&ring_color=ff0000&k#gh-dark-mode-only" />
+</a>
+
+
 
 <div align="left">
   <h3>Conectate conmigo</h3>
