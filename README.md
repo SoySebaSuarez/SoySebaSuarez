@@ -43,7 +43,7 @@ class About extends Me {
 
 
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Soy estudiante de Desarollo de Software, Me enfoco principalmente en el desarrollo fronted.<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Soy estudiante de Desarollo de Software, Me enfoco principalmente en el desarrollo fronted.<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif" alt="Penguin" width="15%" /><br>
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Actualmente estoy aprendiendo **Javascript & React**.<br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Hablame de tu proyecto! Me gusta enfrentarme a nuevo retos y seguir adquiriendo experiencia. <br>
