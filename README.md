@@ -30,7 +30,7 @@
 
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Soy estudiante de Desarollo de Software, Me enfoco principalmente en el desarrollo fronted.<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-   <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/not-used/linux.gif"  width="13%"/>
+
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Actualmente estoy aprendiendo **Javascript & React**.<br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Hablame de tu proyecto! Me gusta enfrentarme a nuevo retos y seguir adquiriendo experiencia. <br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Dato sobre mí: Soy muy curioso, me encanta aprender y entender como funcionan las cosas.<br>
