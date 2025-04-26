@@ -27,6 +27,20 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Javascript",  "Python", },
+    "OtherLanguages" : { "HTML", "CSS" },
+    "Editors" : { "Vscode" },
+    "OtherTools" : { "Git", "Figma" "Gimp" }
+  };
+}
+```
+
+
 
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Soy estudiante de Desarollo de Software, Me enfoco principalmente en el desarrollo fronted.<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
