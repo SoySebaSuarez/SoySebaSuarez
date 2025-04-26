@@ -72,8 +72,6 @@ class About extends Me {
 </a>
 
 
-
-
 <div align="left">
   <h3>Conectate conmigo</h3>
 <a href="https://instagram.com/sebastiansuaarezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="30" /></a>
@@ -83,21 +81,11 @@ class About extends Me {
 <a href="mailto:sebasuarezf@gmail.com">
 <img src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/images-2/whatsapp-svgrepo-com%20(3).svg" height="34" align="center">
 </a>
-
 </div>
-
 
 <hr></hr>
 
-
-
-**Ciclo de codigo**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+<img src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/github-user-contribution.svg">
 
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
