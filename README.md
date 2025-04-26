@@ -1,6 +1,10 @@
 <div align="center" width="50">
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Encantado de verte.</h1>
+<h1>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey!+Encantado+de+verte+✌️.)](https://git.io/typing-svg)
+</h1>
+
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
@@ -60,13 +64,12 @@ class About extends Me {
 
 <!-- CARDS -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=5&hide=++,typescript,glsl&size_weight=0.05&count_weight=0.01&text_color=fff&bg_color=0D1117&title_color=3198FF" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img width=405 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SoySebaSuarez&show_icons=true&text_color=fff&bg_color=0D1117&title_color=3198FF&rank_icon=github&ring_color=ff0000&k#gh-dark-mode-only" />
 </a>
-
 
 
 <div align="left">
@@ -86,7 +89,7 @@ class About extends Me {
 
 
 
-**Code Cycle**<br>
+**Ciclo de codigo**<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
