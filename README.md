@@ -65,10 +65,10 @@ class About extends Me {
 <!-- CARDS -->
 
 <a>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoySebaSuarez&show_icons=true&locale=en&layout=compact&text_color=fff&bg_color=0D1117&title_color=3198FF" alt="SoySebaSuarez" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoySebaSuarez&show_icons=true&locale=en&layout=compact&text_color=fff&bg_color=0D1117&title_color=3198FF" alt="SoySebaSuarez" />
 </a>
 <a>
-  <img width=415 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SoySebaSuarez&show_icons=true&text_color=fff&bg_color=0D1117&title_color=3198FF&rank_icon=github&ring_color=ff0000&locale=en" alt="SoySebaSuarez" />
+  <img width=415 height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=SoySebaSuarez&show_icons=true&text_color=fff&bg_color=0D1117&title_color=3198FF&rank_icon=github&ring_color=ff0000&locale=en" alt="SoySebaSuarez" />
 </a>
 
 
