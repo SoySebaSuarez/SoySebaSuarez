@@ -8,7 +8,6 @@
 <p><strong> <summary>  Ocupado codificando y vibrando con:   </summary> </strong></p>
 
 <a href="https://open.spotify.com/search/wicked%20game">
-  <img src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/images-2/play-button-svgrepo-com%20(1).svg" height="25" align="center" >
   <img src= "https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/images-2/Captura%20de%20pantalla%202025-04-25%20235455.png" align="center">
 </a>
 
@@ -21,11 +20,11 @@
 
 <hr></hr>
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Llevo 1 año desarrollando interfaces web, para negocios y personas que quieran tener una imagen digital, mas 1 años mas de practica. <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif" alt="Penguin" width="15%" />
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Llevo 2 años desde que me sumergi en este mundo, y 1 año despues inicie a desarrollar interfaces web para negocios y personas que quieran tener una imagen digital. <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif" alt="Penguin" width="15%" />
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Actualmente estoy explotando **Javascript & React**.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Hablame de tu proyecto! Me gusta enfrentarme a nuevo retos y seguir adquiriendo experiencia. <br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Dato sobre mí: Soy muy curioso, me encanta aprender y entender como funcionan las cosas.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Hablame de tu proyecto! Me gusta enfrentarme a nuevo retos y seguir adquiriendo experiencia. <br>
 
 
 
