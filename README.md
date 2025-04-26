@@ -2,7 +2,7 @@
 
 <h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey!+Encantado+de+verte+✌️.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1000&color=3198FF&center=true&vCenter=true&repeat=false&width=435&lines=Hey!+Encantado+de+verte+✌️.)](https://git.io/typing-svg)
 </h1>
 
 
