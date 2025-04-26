@@ -21,9 +21,9 @@
 
 <hr></hr>
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Soy estudiante de Desarollo de Software, Me enfoco principalmente en el desarrollo fronted.<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif" alt="Penguin" width="15%" />
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Llevo 1 año desarrollando interfaces web, para negocios y personas que quieran tener una imagen digital, mas 1 años mas de practica. <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif" alt="Penguin" width="15%" />
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Actualmente estoy aprendiendo **Javascript & React**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Actualmente estoy explotando **Javascript & React**.
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Hablame de tu proyecto! Me gusta enfrentarme a nuevo retos y seguir adquiriendo experiencia. <br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Dato sobre mí: Soy muy curioso, me encanta aprender y entender como funcionan las cosas.
 
@@ -64,15 +64,9 @@ class About extends Me {
 
 </a>
 
-<details>
-  <summary>More stats</summary>
-  
-<img  src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/Cards_GitHub/First_card/first-card.png" width="32.5%"/>
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-
-</details>
-
-
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 <div align="left">
   <h3>Conectate conmigo</h3>
@@ -83,7 +77,9 @@ class About extends Me {
 <a href="mailto:sebasuarezf@gmail.com">
 <img src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/images-2/whatsapp-svgrepo-com%20(3).svg" height="34" align="center">
 </a>
+
 </div>
+
 
 <hr></hr>
 
