@@ -20,15 +20,15 @@
 <br>
 </div>
 
-<p>¡Bienvenido a mi perfil! <br> Mi nombre es Sebastián, soy de <img src="https://cdn-icons-png.flaticon.com/128/16022/16022037.png" height="12"> Colombia y me desempeño como Desarrollador Junior, enfocado principalmente en el desarrollo <b>fronted</b>. Mi objetivo en cada proyecto es crear interface limpias, atractivas, funcionales y centradas en el usuario. 😎</p>
+<p>¡Bienvenido a mi perfil! <br> Mi nombre es Sebastián, soy de <img src="https://cdn-icons-png.flaticon.com/128/16022/16022037.png" height="12"> Colombia y me desempeño como Desarrollador Junior, enfocado principalmente en el desarrollo <b>fronted</b>. Mi objetivo en cada proyecto es crear interfaces limpias, atractivas, funcionales y centradas en el usuario. 😎</p>
 
 <hr></hr>
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Llevo 2 años desde que me sumergi en este mundo, y 1 año despues inicie a desarrollar interfaces web para negocios y personas que quieran tener una imagen digital. <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif" alt="Penguin" width="15%" />
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Llevo 2 años desde que me sumergí en este mundo, y 1 año después inicié a desarrollar interfaces web para negocios y personas que quieran tener una imagen digital. <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif" alt="Penguin" width="15%" />
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Actualmente estoy explotando **Javascript & React**.
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Dato sobre mí: Soy muy curioso, me encanta aprender y entender como funcionan las cosas.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Hablame de tu proyecto! Me gusta enfrentarme a nuevo retos y seguir adquiriendo experiencia. <br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Dato sobre mí: Soy muy curioso, me encanta aprender y entender cómo funcionan las cosas.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Háblame de tu proyecto! Me gusta enfrentarme a nuevos retos y seguir adquiriendo experiencia. <br>
 
 
 
@@ -59,36 +59,41 @@ class About extends Me {
 ```
 
 <div align="center" >
-<a  href="https://github.com/SP-XD">
-</a>
-
 <!-- CARDS -->
+  <a>
+    <img height=155 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoySebaSuarez&show_icons=true&locale=en&layout=compact&text_color=fff&bg_color=0D1117&title_color=3198FF"     
+   alt="SoySebaSuarez" />
+  </a>
+  <a>
+    <img width=415 height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=SoySebaSuarez&show_icons=true&text_color=fff&bg_color=0D1117&title_color=3198FF&rank_icon=github&ring_color=ff0000&locale=en" alt="SoySebaSuarez" />
+  </a>
 
-<a>
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoySebaSuarez&show_icons=true&locale=en&layout=compact&text_color=fff&bg_color=0D1117&title_color=3198FF" alt="SoySebaSuarez" />
-</a>
-<a>
-  <img width=415 height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=SoySebaSuarez&show_icons=true&text_color=fff&bg_color=0D1117&title_color=3198FF&rank_icon=github&ring_color=ff0000&locale=en" alt="SoySebaSuarez" />
-</a>
-
-
+<!--- SOCIAL MEDIAS --->
+<div align="center">
+    <h3 align="left">Conéctate conmigo</h3>
 <div align="left">
-  <h3>Conectate conmigo</h3>
-<a href="https://instagram.com/sebastiansuaarezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="30" /></a>
-<a href="mailto:sebasuarezf@gmail.com">
-<img src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/images-2/gmail-svgrepo-com.svg" height="33" align="center">
-</a>
-<a href="mailto:sebasuarezf@gmail.com">
-<img src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/images-2/whatsapp-svgrepo-com%20(3).svg" height="34" align="center">
-</a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
+
+###
+
+
 
 <hr></hr>
 
-<img src="https://github.com/SoySebaSuarez/SoySebaSuarez/blob/main/github-user-contribution.svg">
+**Code Cycle**<br>
 
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 </div>
 
