@@ -20,7 +20,7 @@
 <br>
 </div>
 
-<p>¡Bienvenido a mi perfil! <br> Mi nombre es Sebastián, soy de <img src="https://cdn-icons-png.flaticon.com/128/16022/16022037.png" height="12"> Colombia y me desempeño como Desarrollador Junior, enfocado principalmente en el desarrollo <b>fronted</b>. Mi objetivo en cada proyecto es crear interfaces limpias, atractivas, funcionales y centradas en el usuario. 😎</p>
+<p>¡Bienvenido a mi perfil! <br> Mi nombre es Sebastián, soy de <img src="https://cdn-icons-png.flaticon.com/128/16022/16022037.png" height="12"> Colombia y me desempeño como Desarrollador Junior, enfocado principalmente en el desarrollo <b>front-end</b>. Mi objetivo en cada proyecto es crear interfaces limpias, atractivas, funcionales y centradas en el usuario. 😎</p>
 
 <hr></hr>
 
